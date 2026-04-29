@@ -1,1 +1,1 @@
-rootProject.name = "event-relay-system"
+rootProject.name = "event-relay"
